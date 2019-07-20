@@ -1,5 +1,5 @@
-# Create-a-lithophane-lamp-using-RGB-LED
-Create a lithophane lamp using RGB LED
+# Create-a-lithophane-lamp-using-RGB-LED-with-Photo-resistor
+Create-a-lithophane-lamp-using-RGB-LED-with-Photo-resistor
 
 STEP1
  Go to the homepage http://3dp.rocks/lithophane/
